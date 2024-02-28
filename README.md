@@ -4,14 +4,12 @@ My analysis for the 2024 season of Formula 1
 # Season 2024
 Formula 1 Testing is now over this past weekend and we are getting into race week. Without looking at the data, and with the possibility of sandbagging to hide true potential, I would say the ranking of the grid looks as such.
 
-# Front of the pack
-# Red Bull and Ferrari
+# Front of the pack: Red Bull and Ferrari
 Once again Red Bull and Ferrari seem to lead the pack in terms of total package. Red Bull seem to be the biggest sandbaggers, and most fans already have them pegged as heavy favorites. Everyone seems so comfortable with extremely radical changes and it feels
 like every team in the paddock is going to be playing catch-up. Ferrari on the other hand look like the only competitor to rise up and 
 actually challenge for victories. I doubt there will be many such challenges, but on their day I can see Ferrari taking the fight to Red Bull. Once we see the full extent of each package this upcoming weekend I will feel more comfortable to pass judgement on each. 
 
-# Development Battle
-# Mercedes-Aston Martin-McLaren
+# Development Battle: Mercedes-Aston Martin-McLaren
 I am very excited about these three. All of them seem to be in a weird limbo between the midfield and podium contenders, and maybe even on a good weekend, one of these guys can pip a win off of the Red Bull or Ferrari. Watching this battle in the constructors is going to be extremely exciting. I feel it is going to come down to development. 
 Mercedes seems comfortable where they are at. Not satisfied, but comfortable. The team is saying that they really nailed down a strong foundation of a car for them to build off of. I'm anxious to see what they do with that, because this sounds like the first time 
 in the past few years that Mercedes seems proud of the work they did in the offseason. They seem to have a solid package going into the first round and I expect them to be higher up the order than McLaren at least, and close with Aston at least in the first round. 
@@ -21,8 +19,7 @@ They have the makings of a strong team, however without a solid upgrade schedule
 This tightness of this trio poses a good amount of questions for these three. Did Mercedes finally figure out a solid foundation for them to upgrade from? Can Aston Martin develop effective upgrades efficiently? Will McLaren continue the ride the upwards trajectory that was started last year?
 These questions make this an exciting group of teams to watch going into this season. 
 
-# Lower Midfield
-# Alpine-VCARB-Williams
+# Lower Midfield: Alpine-VCARB-Williams
 I believe this group is going to be an exciting bunch as well, however just with much less at stake. I see them as fighting over table scraps near the bottom end of the points. This seems like it will play out similar to the aforementioned development battle. The VCARB-Red Bull relationship has been talked about so much, but I 
 would genuinely be surprised if they are working as closely together as speculated. The VCARB car feels significantly different from the RB20, that's all. Should more allegations come out, I think that they should be investigated but at this point it all seems like speculation.
 They have an exciting driver lineup, an exciting new livery (in my honest opinion), and seem poised to be near-regular points scorers. The Williams situation feels similar, however as of this moment they only have one driver. As an American, I love Logan Sargeant and wish him 
@@ -32,8 +29,7 @@ of their drivers. Pierre and Ocon seem like the most consistent pairing out of t
 I hate to say it but it's just hard to get excited about Alpine. Their rivals from previous years in McLaren and Aston Martin, have outpaced them in development, storylines come out about the car being hot garbage, they seem to have lost personality. Which absolutely sucks. 
 Both drivers have some of the best race wins in recent history, they used to punch above their weight often and it was exciting. However after a mediocre testing, and even worse storylines surrounding thier development, I am worried about Alpine. 
 
-# Bottom of the Barrel
-# Haas-Sauber
+# Bottom of the Barrel: Haas-Sauber
 Starting out on a positive note, Sauber. I am kind of excited for Sauber. They had decent laptimes in testing, their livery is fresh and exciting, and it feels like on a good day they can score some decent points for this team. It may be too early to say, but if one of 
 these teams is going to make it out of this tier, I think it will be Sauber. I would love to see it, however the chips are definitely stacked against them. The field seems tighter, and I am definitely not confident in either of their drivers putting up good fights on track.
 Unfortunately, Zhou seems too green, and it is just not Bottas' strong suit in my opinion. However this team is not dead yet and I predict a few standout performances that are going to keep this team alive. And now Haas. Ayao Komatsu can do everything he can, but this team 
