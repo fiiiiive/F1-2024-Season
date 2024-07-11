@@ -15,3 +15,10 @@ The only reason I think the leaders waited is because they had more to lose and 
 The McLaren however had a spare set of Mediums, and they have already shown that their car is happier with lower fuel and more worn tyres than most. If Norris pitted one lap earlier for mediums instead of softs he would have absolutely won this race, especially with Lewis having to save tyres. 
 
 That being said Lewis absolutely deserved the win today. His racecraft and timely strategy calls were the reason that they won this race today. All of my suggestions are just that, suggestions, and so hats off to Lewis Hamilton, your 2024 British Grand Prix winner. 
+
+File References:
+2024SilverstoneRACETRACE_REF_44.png: Full Race Trace with reference to Hamilton average laptime
+2024SilverstoneRACETRACE_REF_44_caplap.png: Race Trace that caps off at Lap 25
+2024_Silverstone_Grand_Prix_Race_Strategies.png: Strategies graph that maps tyre type over lap number
+2024_Silverstone_RACETRACE_NOR_HAM_VER.png: Race Trace for Norris, Hamilton, and Verstappen
+2024_Silverstone_RACETRACE_VER_PER_VER.png: Race Trace for Verstappen vs Perez
