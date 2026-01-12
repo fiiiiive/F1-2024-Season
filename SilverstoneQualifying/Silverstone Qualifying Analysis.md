@@ -2,7 +2,7 @@
 Silverstone delivered once again in today's qualifying, giving us 3 British drivers filling the top 3 spots. As an American on Fourth of July weekend I was heppy to see Logan Sargeant make it into Q2, 
 but for everyone else, the real story today was the Mercedes 1-2 in qualifying today. Much of the discussion this year has been regarding McLaren, Ferrari, and of course Red Bull, but Mercedes has been quietly 
 hovering around at the top end of the grid and these last two races have been a big boost to them, and I believe that their high speed cornering and DRS effectiveness are the culprit. With George Russell sitting on pole with a time of 1:25.819, he will get to serve as our benchmark today, so
-without further ado...
+without further ado lets talk about the two teams behind them and the frontrunners for the race tomorrow...
 # Red Bull
 It is impossible to talk about the last 2 seasons without mentioning Red Bull dominance. It's quite easy to forget that up until 3-4 races ago, they were still the team to beat on track, especially with Max Verstappen. 
 But here we are. Mercedes, and specifically George Russell, has beaten them in qualifying by 4 tenths. However, before everyone starts with omens of Red Bull's downfall, it is worth mentioning that Max did suffer damage
