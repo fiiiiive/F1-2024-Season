@@ -1,5 +1,5 @@
 # F1-2024-Season
-My analysis for the start of the 2024 season of Formula 1 and an example of data analysis pulled from the Silverstone Qualifying.
+My analysis for the start of the 2024 season of Formula 1 and an example of data analysis pulled from the Silverstone Qualifying and Race.
 
 # Season 2024
 Formula 1 Testing is now over this past weekend and we are getting into race week. Without looking at the data, and with the possibility of sandbagging to hide true potential, I would say the ranking of the grid looks as such.
